@@ -1,5 +1,5 @@
 # Healthcare_Appointment_Analysis
-Data Analysis by Python(Pandas,Numpy,Matplotlib & Seaborn)
+Data Analytics Project by Python(Pandas,Numpy,Matplotlib & Seaborn)
 
 ---
 
@@ -95,24 +95,29 @@ The following data preparation steps were performed:
 
 - Age distribution
 - Gender distribution
-- Insurance type distribution
 
 ### Appointment Analysis
 
 - Appointments by insurance type
 - Clinic-wise appointment volume
 - Attendance rate by clinic
-- Attendance vs. no-show distribution
 
 ### No-Show Analysis
 
 - No-show rate by age group
+- No-show rate by clinic
 - No-show rate by appointment type
 - SMS reminders vs. attendance
 - Waiting days vs. attendance
+- Distance from Clinic by Attendance Status
 
 ---
 
+### Financial Analysis
+-- Distribution of Visit Costs
+-- Average Visit Cost by Appointment Type
+
+---
 ## 📈 Data Visualization
 
 The project uses **Matplotlib and Seaborn** to create visualizations such as:
@@ -145,10 +150,10 @@ The analysis focuses on identifying actionable insights related to:
 ```text
 Healthcare-Appointment-Analysis/
 │
-├── Healthcare_Appointment_Analysis.ipynb
-├── healthcare_appointment_analysis_10000.csv
+├── Healthcare_Appointment_Analysis(raw_data).csv
+├── healthcare_appointment_analysis.ipynb
 ├── Healthcare_Appointment_Analysis.pptx
-└── README.md
+└── README.md ```
 
 ---
 
@@ -171,7 +176,7 @@ Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 ---
 
-## ⭐ Support
+> ## ⭐ Support
 
 If you find this project useful or interesting, please consider giving the repository a **⭐ Star on GitHub**.
 
