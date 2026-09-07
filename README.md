@@ -112,8 +112,8 @@ The following data preparation steps were performed:
 - Distance from Clinic by Attendance Status
 
 ### Financial Analysis
--- Distribution of Visit Costs
--- Average Visit Cost by Appointment Type
+- Distribution of Visit Costs
+- Average Visit Cost by Appointment Type
 
 ---
 
