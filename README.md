@@ -111,13 +111,12 @@ The following data preparation steps were performed:
 - Waiting days vs. attendance
 - Distance from Clinic by Attendance Status
 
----
-
 ### Financial Analysis
 -- Distribution of Visit Costs
 -- Average Visit Cost by Appointment Type
 
 ---
+
 ## 📈 Data Visualization
 
 The project uses **Matplotlib and Seaborn** to create visualizations such as:
