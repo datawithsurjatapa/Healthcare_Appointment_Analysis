@@ -140,17 +140,6 @@ The analysis focuses on identifying actionable insights related to:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Python**
-- **Pandas**
-- **Numpy**
-- **Matplotlib**
-- **Seaborn**
-- **Jupyter Notebook**
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -160,6 +149,18 @@ Healthcare-Appointment-Analysis/
 ├── healthcare_appointment_analysis_10000.csv
 ├── Healthcare_Appointment_Analysis.pptx
 └── README.md
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python**
+- **Pandas**
+- **Numpy**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
+
 ---
 
 ## 👩‍💻 Author
